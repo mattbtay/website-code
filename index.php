@@ -6,6 +6,8 @@
     <meta charset="utf-8">
     <title>Hi, I'm Matt.</title>
 
+    <link rel="stylesheet" href="css/main.css">
+
   </head>
 
   <body>
